@@ -8,7 +8,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
 
+![SaurabhPort](https://github.com/SaurabhKP28/Portfolio/assets/104314402/f52b163b-e2a6-4768-b735-e2e23d6a3c00)
